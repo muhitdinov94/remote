@@ -1,0 +1,9 @@
+{
+  "upstream": "https://github.com/rustdesk/rustdesk",
+  "commit": "04360797addc71138ea30e6c630c073811d9a1d5",
+  "hbb_common_commit": "fae47e024dd83cef6aaecde0aa7d11731df11649",
+  "modified": "2026-10-28",
+  "brand": "NadirRemote",
+  "target": "Windows x64",
+  "status": "source prepared; Windows build not yet run"
+}
